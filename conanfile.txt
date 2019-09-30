@@ -1,0 +1,6 @@
+[requires]
+cpprestsdk/2.10.14@bincrafters/stable
+ sqlitecpp/2.4.0@bincrafters/stable
+ [generators]
+cmake
+gcc
